@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f5f8fa;
+    color: #14171a;
+    margin: 0;
+    padding: 20px;
+}
+
+header {
+    text-align: center;
+}
+
+.tweet-form {
+    margin-bottom: 20px;
+}
+
+textarea {
+    width: 100%;
+    height: 100px;
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+button {
+    background-color: #1da1f2;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0d95e8;
+}
+
+.tweet {
+    background-color: white;
+    border: 1px solid #e1e8ed;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
